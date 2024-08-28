@@ -14,4 +14,5 @@ Hello Guys,
     sudo snap install aws_cli --classic
     aws configure
 
+    source .env
     In my terraform file there is variable.tf folder and secret keys has been alloacted in the .env file 
